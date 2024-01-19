@@ -23,7 +23,7 @@ services:
     environment:
     - RUN_MODE=prod
     ports:
-    - 127.0.0.1:9000:9000
+    - 80:9000
     restart: always
   backup:
     image: deepzz0/backup:latest

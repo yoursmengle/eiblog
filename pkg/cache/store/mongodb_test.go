@@ -34,10 +34,10 @@ func init() {
 	}
 	// blogger
 	blogger = &model.Blogger{
-		BlogName:  "Deepzz",
-		SubTitle:  "不抛弃，不放弃",
+		BlogName:  "SatoST",
+		SubTitle:  "BSV",
 		BeiAn:     "beian",
-		BTitle:    "Deepzz's Blog",
+		BTitle:    "SatoST's Blog",
 		Copyright: "Copyright",
 	}
 	// series
